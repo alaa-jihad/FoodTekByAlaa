@@ -1,0 +1,2 @@
+D:/StudioProjects/foodtek_app/android/app/.cxx/Debug/4636e70j/x86/CMakeFiles/edit_cache.dir
+D:/StudioProjects/foodtek_app/android/app/.cxx/Debug/4636e70j/x86/CMakeFiles/rebuild_cache.dir
